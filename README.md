@@ -36,20 +36,16 @@
 <body>
       <img src="musu.jpg" alt="Musu's Picture">
     <h1>Hi Musu, My Gorgeous Woman, Will You Be My Valentines? ❤️</h1>
-    <button class="yes" onclick="yesAnswer()">Yes</button>
-    <button class="no" id="noButton" onmouseover="moveNo()">No</button>
+     <button class="yes" onclick="yesAnswer()">Yes</button>
+    <button class="no" onclick="noAnswer()">No</button>
 
     <script>
         function yesAnswer() {
-            alert("Yay! I Love you Twinbae! 💖");
+            alert("Yayy, I love you so much twin ae! 💖");
         }
 
-        function moveNo() {
-            let button = document.getElementById("noButton");
-            let x = Math.random() * (window.innerWidth - button.clientWidth);
-            let y = Math.random() * (window.innerHeight - button.clientHeight);
-            button.style.left = x + "px";
-            button.style.top = y + "px";
+        function noAnswer() {
+            alert("Wow, what a heartbreak. 😢");
         }
     </script>
 </body>
