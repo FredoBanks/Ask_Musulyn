@@ -34,6 +34,7 @@
     </style>
 </head>
 <body>
+      <img src="musu.jpg" alt="Musu's Picture">
     <h1>Hi Musu, My Gorgeous Woman, Will You Be My Valentines? ❤️</h1>
     <button class="yes" onclick="yesAnswer()">Yes</button>
     <button class="no" id="noButton" onmouseover="moveNo()">No</button>
