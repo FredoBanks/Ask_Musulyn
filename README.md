@@ -12,7 +12,7 @@
             padding: 50px;
         }
         h1 {
-            color: #ff4d6d;
+            color: #660033;
         }
         button {
             font-size: 20px;
@@ -34,7 +34,7 @@
     </style>
 </head>
 <body>
-    <h1>Hi Musu, Will You Be My Valentines? ❤️</h1>
+    <h1>Hi Musu, My Gorgeou Woman, Will You Be My Valentines? ❤️</h1>
     <button class="yes" onclick="yesAnswer()">Yes</button>
     <button class="no" id="noButton" onmouseover="moveNo()">No</button>
 
