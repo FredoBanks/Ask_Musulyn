@@ -12,7 +12,7 @@
             padding: 50px;
         }
         h1 {
-            color: #660033;
+            color: #000000;
         }
         button {
             font-size: 20px;
