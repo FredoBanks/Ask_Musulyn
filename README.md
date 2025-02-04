@@ -8,7 +8,7 @@
         body {
             text-align: center;
             font-family: Arial, sans-serif;
-            background-color: #ffebf0;
+            background-color: #660033;
             padding: 50px;
         }
         h1 {
@@ -41,7 +41,7 @@
 
     <script>
         function yesAnswer() {
-            alert("Yayy, I love you so much twin ae! 💖");
+            alert("Yayy, I love you so much twinbae! 💖");
         }
 
         function noAnswer() {
